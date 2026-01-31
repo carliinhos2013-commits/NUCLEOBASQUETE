@@ -1,0 +1,9 @@
+{
+  "name": "Copy of Núcleo Basquete",
+  "description": "App oficial do Núcleo Basquete para metrificação de treinos, ranking e educação esportiva.",
+  "requestFramePermissions": [
+    "camera",
+    "microphone",
+    "geolocation"
+  ]
+}
